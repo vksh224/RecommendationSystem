@@ -1,0 +1,4 @@
+"Similarity Metrics" 	UCF ICF
+MSD			0.7806   0.7809  
+Cosine		0.8092   0.8223 
+Pearson		0.8090   0.8384  

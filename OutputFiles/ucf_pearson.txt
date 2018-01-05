@@ -1,0 +1,3 @@
+"UCF-Pearson"   "Fold 1"  "Fold 2"  "Fold 3"  Mean    
+MAE     0.8042  0.8143  0.8084  0.8090  
+RMSE    1.0149  1.0265  1.0182  1.0199 
